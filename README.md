@@ -2,6 +2,8 @@
 
 Este proyecto incluye la versión de **Pokémon Añil** con el modo multijugador (Cable Club) completamente reparado y estabilizado, además de un servidor dedicado (Host) optimizado en Python. **El juego ya viene completamente modificado y listo para jugar, no requiere ningún tipo de parcheo o instalación de scripts.**
 
+- Version 4.1.1 del Pokémon Añil
+
 ## ✨ Características Principales
 
 * **Servidor Asíncrono Estable:** Un host ultraligero que evita los cuellos de botella y los bloqueos de pantalla en "Esperando..." durante la transferencia de datos.
