@@ -11,7 +11,7 @@ Este proyecto incluye la versión de **Pokémon Añil** con el modo multijugador
 
 ## 🚀 Cómo Levantar el Servidor (Host)
 
-Para que los jugadores puedan conectarse entre sí, una persona debe mantener abierto el servidor. Todos los archivos necesarios para esto se encuentran dentro de la carpeta **`Host Server`**.
+Para que los jugadores puedan conectarse entre sí, una persona debe mantener abierto el servidor. Todos los archivos necesarios para esto se encuentran dentro de la carpeta **`Host Server`** (Cuando ejecuten el host, deben mantener abierto la terminal de powershell mientras vayan a usar el online).
 
 ### 💻 Opción A: Hostear en Windows
 1. Entra a la carpeta `Host Server`.
