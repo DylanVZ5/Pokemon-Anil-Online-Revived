@@ -34,5 +34,5 @@ Puedes hostear la partida directamente desde tu dispositivo móvil, lo cual es i
 * **Eric Lostie**: Creador de Pokémon Añil y desarrollador principal del fangame.
 * **Skyflyer**: Colaborador y desarrollador de Pokémon Añil.
 * **DPertierra**: Colaborador y desarrollador de Pokémon Añil.
-* **Nylox**: Agradecimiento especial por colaborar con las bases fundamentales para arreglar la arquitectura del modo online.
+* **NyloxCodes**: Agradecimiento especial por colaborar con las bases fundamentales para arreglar la arquitectura del modo online.
 * **DylanVZ5**: Modificaciones del código fuente (Ruby), mejoras de QoL (Calidad de vida), desarrollo del servidor puente asíncrono en Python.
